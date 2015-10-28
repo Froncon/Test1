@@ -1,2 +1,2 @@
-print ("Привет")
-print ("Hi")
+print ("Hey guys!")
+print ("Hi!")
